@@ -1,8 +1,8 @@
-# Getting Started with Create React App
+# About
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Live at - [https://visionary-tarsier-4d5fef.netlify.app/](https://visionary-tarsier-4d5fef.netlify.app/)
 
-## Available Scripts
+## Technology Used
 
 In the project directory, you can run:
 
